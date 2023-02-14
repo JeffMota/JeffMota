@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at Driven Education.
 
-- 🌱 I’m currently learning MongoDB <img height="16" width="16" src="https://cdn.simpleicons.org/mongodb/#33bd11" />
+- 🌱 I’m currently learning PostgreSQL <img height="16" width="16" src="https://cdn.simpleicons.org/postgresql/#33bd11" />
 
 - ⚡ Fun fact: I took half of the mechanical engineering course before I even realized that programming was the way to go
 
@@ -32,6 +32,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/09eb15" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#33bd11" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#33bd11 />
 </p>
 
 <!--## ⚙️ &nbsp;GitHub Analytics
