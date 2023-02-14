@@ -32,18 +32,12 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/09eb15" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#33bd11" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#33bd11 />
-</p>
-
-<!--## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#33bd11" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/1E90FF" />
 </p>
 
 <br><br>
--->
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
